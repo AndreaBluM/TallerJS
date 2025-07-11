@@ -1,4 +1,4 @@
 
-function calcularPropina(){
+function calcularPropina(total,porcentaje){
     
 }
