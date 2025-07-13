@@ -1,4 +1,4 @@
-
+//Ejercicio 2
 function validarContraseña(contraseña){
     let longitud = contraseña.length >= 8;
     let tieneNumero = /[0-9]/.test(contraseña);
